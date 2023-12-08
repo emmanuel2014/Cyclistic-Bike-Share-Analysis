@@ -33,7 +33,7 @@ Derived top three recommendations based on the analysis.
 
 ## Data Sources
 
-- [Cyclistic Trip Data](link-to-your-data) (provided by Motivate International Inc. under [license])
+- [Cyclistic Trip Data]([link-to-your-data](https://divvy-tripdata.s3.amazonaws.com/index.html)) (provided by Motivate International Inc. under [license])
 
 ## Project Structure
 
