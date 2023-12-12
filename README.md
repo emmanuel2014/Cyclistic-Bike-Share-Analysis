@@ -85,6 +85,8 @@ Communicate your findings clearly.
 Act:
 
 Formulate conclusions and recommendations.
+
+
 Folder Structure
 /data: Contains the Cyclistic trip data files.
 /notebooks: Jupyter notebooks or code files for analysis.
@@ -96,8 +98,11 @@ Acknowledgments
 
 
 Data provided by Motivate International Inc. under license.
+
+
 Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
 
 
 Author
+
 [Emmanuel]
