@@ -187,6 +187,34 @@ Ensure that the presentation is accessible to a diverse audience.
 
 Act
 
+Guiding Questions:
+
+What is your final conclusion based on your analysis?
+
+Summarize the main findings and conclusions derived from the analysis. This should encapsulate the key insights gained.
+How could your team and business apply your insights?
+
+Discuss potential applications of the insights within the context of the Cyclistic bike-share program. This could involve suggesting changes to marketing strategies, user engagement, or other relevant areas.
+
+What next steps would you or your stakeholders take based on your findings?
+
+Outline the recommended actions that could be taken based on the analysis. These could be immediate steps or longer-term strategies.
+
+Is there additional data you could use to expand on your findings?
+
+Identify any gaps in the current analysis and propose additional data sources or supplementary information that could provide a more comprehensive understanding.
+
+Key Tasks:
+
+Summarize your final conclusions in a clear and concise manner.
+
+Discuss potential applications of the insights for the Cyclistic team and business.
+
+Propose actionable next steps for the team or stakeholders.
+
+Identify any additional data sources that could enhance or expand on the current findings.
+
+
 Conclusions:
 
 Summarized key insights on annual members and casual riders.
@@ -204,6 +232,7 @@ Sort and filter the data as needed.
 Process the Data:
 
 Use spreadsheets, SQL, or R for data analysis.
+
 Analyze:
 
 Explore trends and relationships in the data.
