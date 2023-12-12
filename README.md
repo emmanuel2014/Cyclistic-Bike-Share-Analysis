@@ -138,11 +138,11 @@ Guiding questions
 Key tasks
 
 1. Aggregate your data so it’s useful and accessible.
-2. 
+
 3. Organize and format your data.
-4. 
+  
 5. Perform calculations.
-6. 
+ 
 7. Identify trends and relationships.
 
 
