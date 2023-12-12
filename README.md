@@ -21,13 +21,19 @@ Cyclistic aims to understand the usage patterns of annual members and casual rid
 
 Insight Impact:
 
-The insights derived from this analysis will play a pivotal role in shaping Cyclistic's future marketing initiatives. Understanding the unique behaviors of annual members and casual riders will enable the marketing team to develop strategies that effectively convert casual riders into annual members, driving increased revenue and long-term customer loyalty.
+The insights derived from this analysis will play a pivotal role in shaping Cyclistic's future marketing initiatives.
+
+Understanding the unique behaviors of annual members and casual riders will enable the marketing team to develop strategies that effectively convert casual riders into annual members, driving increased revenue and long-term customer loyalty.
 
 Key Questions:
 
 What are the distinct usage patterns of annual members and casual riders?
+
 Why do casual riders choose Cyclistic, and how can we incentivize them to become annual members?
+
 How can digital media be leveraged to influence casual riders to transition into annual memberships?
+
+
 Stakeholders:
 
 Lily Moreno (Director of Marketing and Manager)
