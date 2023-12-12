@@ -44,16 +44,47 @@ Cyclistic Executive Team
 
 Prepare
 
-Data Sources:
+Guiding Questions:
 
-Cyclistic's historical trip data
+Where is your data located?
 
+The Cyclistic trip data can be accessed here. For the purposes of this analysis, we will be working with either an entire year of data or just one quarter of a year.
 
-Data Preparation:
+How is the data organized?
 
-Downloaded and stored the data appropriately.
-Organized and sorted the data for analysis.
-Ensured data integrity and addressed privacy issues.
+The data includes columns such as ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, and member_casual.
+
+Are there issues with bias or credibility in this data? Does your data ROCCC?
+
+It's essential to assess the data for any biases or credibility issues. The ROCCC framework (Reliability, Originality, Comprehensiveness, Currency, and Context) will be applied to ensure the data's quality and relevance.
+
+How are you addressing licensing, privacy, security, and accessibility?
+
+Data usage will comply with the licensing agreement provided by Motivate International Inc. Privacy measures will be in place to handle data in an anonymized manner. Security protocols will be followed, and accessibility will be ensured for all team members involved in the analysis.
+
+How did you verify the data’s integrity?
+
+The integrity of the data will be verified by checking for completeness, accuracy, and consistency. Any anomalies or missing values will be addressed during the cleaning process.
+
+How does it help you answer your question?
+
+The chosen data provides a comprehensive view of Cyclistic's bike trip history, allowing for a detailed analysis of how annual members and casual riders use the bikes differently.
+
+Are there any problems with the data?
+
+Any identified data issues will be documented and addressed during the cleaning process.
+
+Key Tasks:
+
+Download the Cyclistic trip data from the provided link.
+
+Store the data appropriately in a designated folder.
+
+Identify and understand the organization of the data.
+
+Sort and filter the data as necessary for analysis.
+
+Assess the credibility of the data using the ROCCC framework.
 
 Process
 
