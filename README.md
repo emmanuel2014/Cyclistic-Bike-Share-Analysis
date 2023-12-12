@@ -85,7 +85,7 @@ Identify and understand the organization of the data.
 Sort and filter the data as necessary for analysis.
 
 Assess the credibility of the data using the ROCCC framework.
----
+***
 **Process**
 
 Guiding Questions:
@@ -119,7 +119,7 @@ Choose appropriate tools for data analysis based on the nature of the data and a
 Transform the data to a usable format for analysis, addressing any issues identified during the cleaning process.
 
 Document the cleaning process, including specific actions taken to clean the data.
----
+***
 **Analyze**
 
 Guiding questions
@@ -145,7 +145,7 @@ Key tasks
  
 7. Identify trends and relationships.
 
----
+***
 **Share**
 
 Guiding Questions:
@@ -184,7 +184,7 @@ Present the findings in a clear and engaging manner.
 
 Ensure that the presentation is accessible to a diverse audience.
 
----
+***
 **Act**
 
 Guiding Questions:
@@ -214,7 +214,7 @@ Propose actionable next steps for the team or stakeholders.
 
 Identify any additional data sources that could enhance or expand on the current findings.
 
----
+***
 **Conclusions:**
 
 Summarized key insights on annual members and casual riders.
@@ -236,7 +236,7 @@ Use spreadsheets, SQL,Tableau or R for data analysis.
 Analyze:
 
 Explore trends and relationships in the data.
----
+***
 **Acknowledgments**
 
 
@@ -245,7 +245,7 @@ Data provided by Motivate International Inc. under license [Link Text](https://d
 
 Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
 
----
+***
 **Author**
 
 [Emmanuel]
