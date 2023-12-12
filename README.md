@@ -88,10 +88,37 @@ Assess the credibility of the data using the ROCCC framework.
 
 Process
 
-Data Cleaning:
+Guiding Questions:
 
-Checked for errors and inconsistencies in the data.
-Documented the cleaning process.
+What tools are you choosing and why?
+
+The choice of tools is a critical decision in the data analysis process. Tools will be selected based on their suitability for handling and analyzing the Cyclistic trip data effectively. [Specify the tools you are using and the reasons for their selection.]
+
+Have you ensured your data’s integrity?
+
+Prior to analysis, the integrity of the data will be ensured by validating for completeness, accuracy, and consistency. Any identified issues will be addressed during the cleaning process.
+
+What steps have you taken to ensure that your data is clean?
+
+Cleaning the data involves addressing errors, missing values, and inconsistencies. Steps will be taken to clean the data, ensuring it is ready for analysis.
+
+How can you verify that your data is clean and ready to analyze?
+
+The cleanliness of the data will be verified through various checks, including but not limited to, summary statistics, visualizations, and cross-referencing with original sources.
+
+Have you documented your cleaning process so you can review and share those results?
+
+The cleaning process will be thoroughly documented, detailing each step taken to clean the data. This documentation serves as a reference for review and can be shared with team members for transparency.
+
+Key Tasks:
+
+Check the data for errors, including outliers, missing values, and inconsistencies.
+
+Choose appropriate tools for data analysis based on the nature of the data and analysis requirements.
+
+Transform the data to a usable format for analysis, addressing any issues identified during the cleaning process.
+
+Document the cleaning process, including specific actions taken to clean the data.
 
 Analyze
 
