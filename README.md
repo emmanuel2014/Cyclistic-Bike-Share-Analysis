@@ -1,75 +1,74 @@
-# Cyclistic Bike-Share Analysis Case Study
+Cyclistic Bike-Share Analysis Case Study
+Introduction
+Welcome to the Cyclistic bike-share analysis case study! In this project, I have undertaken the role of a junior data analyst at Cyclistic, a bike-share company in Chicago. The primary goal is to understand how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy aimed at converting casual riders into annual members.
 
-## Introduction
+Case Study Roadmap
+This project follows the steps of the data analysis process: ask, prepare, process, analyze, share, and act. The Case Study Roadmap provides a guide for each phase of the analysis.
 
-Welcome to the Cyclistic Bike-Share Analysis Case Study! This project focuses on analyzing Cyclistic's historical bike trip data to understand how annual members and casual riders utilize Cyclistic bikes differently.
+Ask
+Business Task:
+"How do annual members and casual riders use Cyclistic bikes differently?"
 
-## Business Questions
+Prepare
+Data Sources:
 
-1. How do annual members and casual riders use Cyclistic bikes differently?
-2. Why would casual riders buy Cyclistic annual memberships?
-3. How can Cyclistic use digital media to influence casual riders to become members?
+Cyclistic's historical trip data
+Data Preparation:
 
-## Case Study Roadmap
+Downloaded and stored the data appropriately.
+Organized and sorted the data for analysis.
+Ensured data integrity and addressed privacy issues.
+Process
+Data Cleaning:
 
-### Ask
-Identified the business task: Understanding the differences in bike usage between annual members and casual riders.
+Checked for errors and inconsistencies in the data.
+Documented the cleaning process.
+Analyze
+Analysis Summary:
 
-### Prepare
-- Utilized Cyclistic’s historical trip data for analysis.
-- Organized and sorted the data, addressing any issues with bias or credibility.
+Utilized spreadsheets for exploratory analysis.
+Conducted descriptive analysis, calculating key metrics.
+Explored trends and relationships in the data.
+Share
+Findings Presentation:
 
-### Process
-Cleaned and manipulated data, preparing it for analysis.
+Created sophisticated data visualizations.
+Communicated insights effectively to the executive team.
+Act
+Conclusions:
 
-### Analyze
-Performed data analysis, identified trends, and relationships in the data.
+Summarized key insights on annual members and casual riders.
+Presented top three recommendations for a targeted marketing strategy.
+Getting Started
+To replicate or extend this analysis, follow these steps:
 
-### Share
-Created effective data visualizations to communicate key findings.
+Download the Data:
 
-### Act
-Derived top three recommendations based on the analysis.
+Cyclistic Trip Data
+Prepare the Data:
 
-## Data Sources
+Store the data appropriately.
+Sort and filter the data as needed.
+Process the Data:
 
-- [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)) (provided by Motivate International Inc. under [license])
+Use spreadsheets, SQL, or R for data analysis.
+Analyze:
 
-## Project Structure
+Explore trends and relationships in the data.
+Share:
 
-- **data:** Contains the Cyclistic trip data files.
-- **notebooks:** Jupyter notebooks used for analysis.
-- **visualizations:** Includes visualizations created during the analysis.
+Create effective data visualizations.
+Communicate your findings clearly.
+Act:
 
-## Visualizations
-
-Include visualizations here with brief descriptions and insights.
-
-## Recommendations
-
-1. **Optimize Bike Distribution:**
-   - Identify peak usage hours for annual members and casual riders.
-   - Optimize bike distribution during these hours to meet demand effectively.
-
-2. **Targeted Marketing Campaign:**
-   - Develop a targeted marketing campaign to promote annual memberships.
-   - Highlight the benefits of annual membership and incentives for casual riders to subscribe.
-
-3. **Enhance User Experience:**
-   - Improve the user experience for casual riders by introducing user-friendly features.
-
-## Getting Started
-
-To replicate this analysis, follow the steps outlined in the Case Study Roadmap. Make sure to use the provided Cyclistic trip data.
-
-## Author
-
-Emmanuel
-
-## License
-
-This project is licensed under ........
-
----
-
-
+Formulate conclusions and recommendations.
+Folder Structure
+/data: Contains the Cyclistic trip data files.
+/notebooks: Jupyter notebooks or code files for analysis.
+/visualizations: Visualizations created during the analysis.
+/docs: Documentation files.
+Acknowledgments
+Data provided by Motivate International Inc. under license.
+Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
+Author
+[Emmanuel]
