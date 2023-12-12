@@ -14,6 +14,12 @@ Ask
 Business Task:
 "How do annual members and casual riders use Cyclistic bikes differently?"
 
+Stakeholders:
+
+Lily Moreno (Director of Marketing and Manager)
+Cyclistic Marketing Analytics Team
+Cyclistic Executive Team
+
 Prepare
 
 Data Sources:
