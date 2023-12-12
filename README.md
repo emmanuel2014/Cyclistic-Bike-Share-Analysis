@@ -33,7 +33,7 @@ Why do casual riders choose Cyclistic, and how can we incentivize them to become
 
 How can digital media be leveraged to influence casual riders to transition into annual memberships?
 
----
+***
 **Stakeholders:**
 
 Lily Moreno (Director of Marketing and Manager)
@@ -41,7 +41,7 @@ Lily Moreno (Director of Marketing and Manager)
 Cyclistic Marketing Analytics Team
 
 Cyclistic Executive Team
----
+***
 **Prepare**
 
 Guiding Questions:
