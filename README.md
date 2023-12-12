@@ -148,10 +148,41 @@ Key tasks
 
 Share
 
-Findings Presentation:
+Guiding Questions:
 
-Created sophisticated data visualizations.
-Communicated insights effectively to the executive team.
+Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+
+The analysis should provide clear insights into the distinctions between annual members and casual riders, addressing the primary question posed.
+
+What story does your data tell?
+
+The narrative derived from the data findings is crucial. It will provide a cohesive and understandable story that communicates the key takeaways.
+
+How do your findings relate to your original question?
+
+Establishing a direct connection between the findings and the initial business question is essential. This ensures that the analysis remains focused on addressing the core objectives.
+
+Who is your audience? What is the best way to communicate with them?
+
+Identifying the target audience for the findings and understanding the most effective communication channels will be crucial for successful sharing.
+
+Can data visualization help you share your findings?
+
+Leveraging data visualizations is a powerful way to convey complex information. The README will highlight the visual elements used and their significance.
+
+Is your presentation accessible to your audience?
+
+Ensuring that the presentation is accessible to the intended audience is vital. Considerations for accessibility will be addressed in the presentation strategy.
+
+Key Tasks:
+
+Determine the most effective way to share findings based on the audience and nature of the data.
+
+Develop impactful data visualizations that enhance understanding.
+
+Present the findings in a clear and engaging manner.
+
+Ensure that the presentation is accessible to a diverse audience.
 
 
 Act
@@ -176,33 +207,6 @@ Use spreadsheets, SQL, or R for data analysis.
 Analyze:
 
 Explore trends and relationships in the data.
-
-
-Share:
-
-Create effective data visualizations.
-Communicate your findings clearly.
-
-
-Act:
-
-Guiding Questions:
-
-Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
-
-The analysis should provide clear insights into the distinctions between annual members and casual riders, addressing the primary question posed.
-
-What story does your data tell?
-
-The narrative derived from the data findings is crucial. It will provide a cohesive and understandable story that communicates the key takeaways.
-
-How do your findings relate to your original question?
-
-Establishing a direct connection between the findings and the initial business question is essential. This ensures that the analysis remains focused on addressing the core objectives.
-
-Who is your audience? What is the best way to communicate with them?
-
-Identifying the target audience for the findings and understanding the most effective communication channels will be crucial for successful sharing.
 
 Acknowledgments
 
