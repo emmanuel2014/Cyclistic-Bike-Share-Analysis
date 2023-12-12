@@ -1,15 +1,15 @@
-Cyclistic Bike-Share Analysis Case Study
+**Cyclistic Bike-Share Analysis Case Study**
 
-Introduction
+**Introduction**
 
 
 Welcome to the Cyclistic bike-share analysis case study! In this project, I have undertaken the role of a junior data analyst at Cyclistic, a bike-share company in Chicago. The primary goal is to understand how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy aimed at converting casual riders into annual members.
 
-Case Study Roadmap
+**Case Study Roadmap**
 
 This project follows the steps of the data analysis process: ask, prepare, process, analyze, share, and act. The Case Study Roadmap provides a guide for each phase of the analysis.
 
-Ask
+**Ask**
 
 Business Task:
 
@@ -42,7 +42,7 @@ Cyclistic Marketing Analytics Team
 
 Cyclistic Executive Team
 
-Prepare
+**Prepare**
 
 Guiding Questions:
 
@@ -86,7 +86,7 @@ Sort and filter the data as necessary for analysis.
 
 Assess the credibility of the data using the ROCCC framework.
 
-Process
+**Process**
 
 Guiding Questions:
 
@@ -120,7 +120,7 @@ Transform the data to a usable format for analysis, addressing any issues identi
 
 Document the cleaning process, including specific actions taken to clean the data.
 
-Analyze
+**Analyze**
 
 Guiding questions
 
@@ -146,7 +146,7 @@ Key tasks
 7. Identify trends and relationships.
 
 
-Share
+**Share**
 
 Guiding Questions:
 
@@ -185,7 +185,7 @@ Present the findings in a clear and engaging manner.
 Ensure that the presentation is accessible to a diverse audience.
 
 
-Act
+**Act**
 
 Guiding Questions:
 
@@ -215,7 +215,7 @@ Propose actionable next steps for the team or stakeholders.
 Identify any additional data sources that could enhance or expand on the current findings.
 
 
-Conclusions:
+**Conclusions:**
 
 Summarized key insights on annual members and casual riders.
 Presented top three recommendations for a targeted marketing strategy.
@@ -237,7 +237,7 @@ Analyze:
 
 Explore trends and relationships in the data.
 
-Acknowledgments
+**Acknowledgments**
 
 
 Data provided by Motivate International Inc. under license.
@@ -246,7 +246,7 @@ Data provided by Motivate International Inc. under license.
 Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
 
 
-Author
+**Author**
 
 [Emmanuel]
 
