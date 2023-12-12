@@ -248,5 +248,5 @@ Case study and roadmap guidance from the Cyclistic bike-share analysis case stud
 ***
 **Author**
 
-[Emmanuel]
+Emmanuel
 
