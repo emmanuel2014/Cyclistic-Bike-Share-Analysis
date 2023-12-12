@@ -37,7 +37,9 @@ How can digital media be leveraged to influence casual riders to transition into
 Stakeholders:
 
 Lily Moreno (Director of Marketing and Manager)
+
 Cyclistic Marketing Analytics Team
+
 Cyclistic Executive Team
 
 Prepare
