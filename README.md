@@ -1,5 +1,5 @@
-Cyclistic Bike-Share Analysis Case Study
-Introduction
+##Cyclistic Bike-Share Analysis Case Study
+##Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this project, I have undertaken the role of a junior data analyst at Cyclistic, a bike-share company in Chicago. The primary goal is to understand how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy aimed at converting casual riders into annual members.
 
 Case Study Roadmap
