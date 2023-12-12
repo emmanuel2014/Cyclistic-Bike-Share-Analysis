@@ -186,15 +186,23 @@ Communicate your findings clearly.
 
 Act:
 
-Formulate conclusions and recommendations.
+Guiding Questions:
 
+Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
 
-Folder Structure
-/data: Contains the Cyclistic trip data files.
-/notebooks: Jupyter notebooks or code files for analysis.
-/visualizations: Visualizations created during the analysis.
-/docs: Documentation files.
+The analysis should provide clear insights into the distinctions between annual members and casual riders, addressing the primary question posed.
 
+What story does your data tell?
+
+The narrative derived from the data findings is crucial. It will provide a cohesive and understandable story that communicates the key takeaways.
+
+How do your findings relate to your original question?
+
+Establishing a direct connection between the findings and the initial business question is essential. This ensures that the analysis remains focused on addressing the core objectives.
+
+Who is your audience? What is the best way to communicate with them?
+
+Identifying the target audience for the findings and understanding the most effective communication channels will be crucial for successful sharing.
 
 Acknowledgments
 
