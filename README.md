@@ -240,7 +240,7 @@ Explore trends and relationships in the data.
 **Acknowledgments**
 
 
-Data provided by Motivate International Inc. under license.
+Data provided by Motivate International Inc. under license [Link Text](https://divvybikes.com/data-license-agreement).
 
 
 Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
