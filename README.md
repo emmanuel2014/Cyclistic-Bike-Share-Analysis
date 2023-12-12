@@ -34,7 +34,7 @@ Why do casual riders choose Cyclistic, and how can we incentivize them to become
 How can digital media be leveraged to influence casual riders to transition into annual memberships?
 
 
-Stakeholders:
+**Stakeholders:**
 
 Lily Moreno (Director of Marketing and Manager)
 
@@ -48,7 +48,7 @@ Guiding Questions:
 
 Where is your data located?
 
-The Cyclistic trip data can be accessed here. For the purposes of this analysis, we will be working with either an entire year of data or just one quarter of a year.
+The Cyclistic trip data can be accessed [here]([https://divvy-tripdata.s3.amazonaws.com/index.html]. For the purposes of this analysis, we will be working with either an entire year of data or just one quarter of a year.
 
 How is the data organized?
 
