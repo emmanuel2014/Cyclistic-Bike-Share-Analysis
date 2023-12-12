@@ -19,28 +19,41 @@ Prepare
 Data Sources:
 
 Cyclistic's historical trip data
+
+
 Data Preparation:
 
 Downloaded and stored the data appropriately.
 Organized and sorted the data for analysis.
 Ensured data integrity and addressed privacy issues.
+
 Process
+
 Data Cleaning:
 
 Checked for errors and inconsistencies in the data.
 Documented the cleaning process.
 
 Analyze
+
 Analysis Summary:
+
+
 Utilized spreadsheets for exploratory analysis.
 Conducted descriptive analysis, calculating key metrics.
 Explored trends and relationships in the data.
+
+
 Share
+
 Findings Presentation:
 
 Created sophisticated data visualizations.
 Communicated insights effectively to the executive team.
+
+
 Act
+
 Conclusions:
 
 Summarized key insights on annual members and casual riders.
@@ -61,10 +74,14 @@ Use spreadsheets, SQL, or R for data analysis.
 Analyze:
 
 Explore trends and relationships in the data.
+
+
 Share:
 
 Create effective data visualizations.
 Communicate your findings clearly.
+
+
 Act:
 
 Formulate conclusions and recommendations.
@@ -73,8 +90,14 @@ Folder Structure
 /notebooks: Jupyter notebooks or code files for analysis.
 /visualizations: Visualizations created during the analysis.
 /docs: Documentation files.
+
+
 Acknowledgments
+
+
 Data provided by Motivate International Inc. under license.
 Case study and roadmap guidance from the Cyclistic bike-share analysis case study.
+
+
 Author
 [Emmanuel]
