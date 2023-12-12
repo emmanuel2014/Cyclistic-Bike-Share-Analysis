@@ -1,18 +1,21 @@
-##Cyclistic Bike-Share Analysis Case Study
+Cyclistic Bike-Share Analysis Case Study
 
-##Introduction
+Introduction
 
 
 Welcome to the Cyclistic bike-share analysis case study! In this project, I have undertaken the role of a junior data analyst at Cyclistic, a bike-share company in Chicago. The primary goal is to understand how casual riders and annual members use Cyclistic bikes differently to design a new marketing strategy aimed at converting casual riders into annual members.
 
 Case Study Roadmap
+
 This project follows the steps of the data analysis process: ask, prepare, process, analyze, share, and act. The Case Study Roadmap provides a guide for each phase of the analysis.
 
 Ask
+
 Business Task:
 "How do annual members and casual riders use Cyclistic bikes differently?"
 
 Prepare
+
 Data Sources:
 
 Cyclistic's historical trip data
@@ -26,9 +29,9 @@ Data Cleaning:
 
 Checked for errors and inconsistencies in the data.
 Documented the cleaning process.
+
 Analyze
 Analysis Summary:
-
 Utilized spreadsheets for exploratory analysis.
 Conducted descriptive analysis, calculating key metrics.
 Explored trends and relationships in the data.
