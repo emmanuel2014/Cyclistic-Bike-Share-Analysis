@@ -8,7 +8,7 @@ Welcome to the Cyclistic bike-share analysis case study! In this project, I have
 **Case Study Roadmap**
 
 This project follows the steps of the data analysis process: ask, prepare, process, analyze, share, and act. The Case Study Roadmap provides a guide for each phase of the analysis.
----
+***
 **Ask**
 
 Business Task:
