@@ -12,8 +12,21 @@ This project follows the steps of the data analysis process: ask, prepare, proce
 Ask
 
 Business Task:
+
 "How do annual members and casual riders use Cyclistic bikes differently?"
 
+Problem Statement:
+
+Cyclistic aims to understand the usage patterns of annual members and casual riders to design a targeted marketing strategy. The specific challenge is to identify key distinctions in how these two customer segments utilize Cyclistic bikes.
+Insight Impact:
+
+The insights derived from this analysis will play a pivotal role in shaping Cyclistic's future marketing initiatives. Understanding the unique behaviors of annual members and casual riders will enable the marketing team to develop strategies that effectively convert casual riders into annual members, driving increased revenue and long-term customer loyalty.
+
+Key Questions:
+
+What are the distinct usage patterns of annual members and casual riders?
+Why do casual riders choose Cyclistic, and how can we incentivize them to become annual members?
+How can digital media be leveraged to influence casual riders to transition into annual memberships?
 Stakeholders:
 
 Lily Moreno (Director of Marketing and Manager)
