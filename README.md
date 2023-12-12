@@ -76,7 +76,7 @@ Any identified data issues will be documented and addressed during the cleaning 
 
 Key Tasks:
 
-Download the Cyclistic trip data from the provided link.
+Download the Cyclistic trip data from the provided link [here]([https://divvy-tripdata.s3.amazonaws.com/index.html].
 
 Store the data appropriately in a designated folder.
 
@@ -222,7 +222,7 @@ Presented top three recommendations for a targeted marketing strategy.
 Getting Started
 To replicate or extend this analysis, follow these steps:
 
-Download the Data:
+Download the Data:[here]([https://divvy-tripdata.s3.amazonaws.com/index.html]
 
 Cyclistic Trip Data
 Prepare the Data:
@@ -231,7 +231,7 @@ Store the data appropriately.
 Sort and filter the data as needed.
 Process the Data:
 
-Use spreadsheets, SQL, or R for data analysis.
+Use spreadsheets, SQL,Tableau or R for data analysis.
 
 Analyze:
 
