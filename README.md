@@ -18,6 +18,7 @@ Business Task:
 Problem Statement:
 
 Cyclistic aims to understand the usage patterns of annual members and casual riders to design a targeted marketing strategy. The specific challenge is to identify key distinctions in how these two customer segments utilize Cyclistic bikes.
+
 Insight Impact:
 
 The insights derived from this analysis will play a pivotal role in shaping Cyclistic's future marketing initiatives. Understanding the unique behaviors of annual members and casual riders will enable the marketing team to develop strategies that effectively convert casual riders into annual members, driving increased revenue and long-term customer loyalty.
